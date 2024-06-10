@@ -1,16 +1,15 @@
-## Hi there 👋
+##  bem vindos ao meu perfil 💛
+  
+meu nome  é Eloah Naomi
 
-<!--
-**eloah2024/eloah2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- eu estou estudando na Alura
+- estou desenvolvendo na linguagem JavaScript
+- utilizo essa parte para organizar e compartilhar dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+## você entrar contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001076187997sp@al.educacao.sp.gov.br
+
+@eloahnaomi
+![Uploading poppy-trolls.gif…]()
+
